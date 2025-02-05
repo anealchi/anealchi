@@ -1,6 +1,11 @@
 # 👨‍💻 ¡Hola! Soy Alejandro! 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E47F7&center=true&width=435&lines=Bienvenido+a+mi+perfil!;Cont%C3%A1ctame+sin+miedo!)](https://git.io/typing-svg)
+<div align=center>
+    <img src="" alt="github profile" height="200">
+</div>
+<div align=center>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E47F7&center=true&width=435&lines=Bienvenido+a+mi+perfil!;Cont%C3%A1ctame+sin+miedo!)](https://git.io/typing-svg)
+</div>
 
 [Español](#-sobre-m%C3%AD) | [English](#english)  
 
