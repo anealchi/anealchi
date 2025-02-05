@@ -1,7 +1,7 @@
 # 👨‍💻 ¡Hola! Soy Alejandro! 👋  
 
 <div align=center>
-  <img src="https://github.com/anealchi/anealchi/blob/main/assets/image.png" alt="github profile" height="200" border-radius="100">
+  <img src="https://github.com/anealchi/anealchi/blob/main/assets/image.png" alt="github profile" height="200" style="border-radius: 100%">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E47F7&center=true&width=435&lines=Bienvenido+a+mi+perfil!;Cont%C3%A1ctame+sin+miedo!)](https://git.io/typing-svg)
