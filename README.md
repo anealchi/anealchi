@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E47F7&center=true&width=435&lines=Bienvenido+a+mi+perfil!;Cont%C3%A1ctame+sin+miedo!)](https://git.io/typing-svg)
 
-[Español](#-sobre-m%C3%AD) | [English](#-hello-im-alejandro)  
+[Español](#-sobre-m%C3%AD) | [English](#english)  
 
 ---
 
@@ -53,7 +53,7 @@ Soy un **desarrollador full stack** graduado hace poco en *Desarrollo de Aplicac
 
 ---
 <br><br>
-# 👨‍💻 Hello! I'm Alejandro! 👋  
+<h2 id="english">👨‍💻 Hello! I'm Alejandro! 👋</h2>  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E47F7&center=true&width=435&lines=Welcome+to+my+profile!;Contact+me+without+fear!)](https://git.io/typing-svg)
 
